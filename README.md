@@ -153,7 +153,7 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**Tanish**  
+**Gaurav**  
 AI Developer | Full-Stack Builder | Problem Solver  
 
 ---
